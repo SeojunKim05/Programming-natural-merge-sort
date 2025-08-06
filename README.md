@@ -67,8 +67,6 @@ This project is ideal for:
 
 1. Clone this repository.
 2. Compile all files:
-   ```bash
-   javac csc143/*.java
-Run the main class:
+3. Run the main class:
 
 java csc143.NaturalMerge
