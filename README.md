@@ -63,3 +63,13 @@ This project is ideal for:
 
 ---
 
+## 🤝 Contact
+
+Got feedback or want to collaborate?
+
+📬 [Open an issue](https://github.com/SeojunKim05/Programming-natural-merge-sort/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---
+
