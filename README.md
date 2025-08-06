@@ -1,6 +1,6 @@
 # Natural Merge Sort in Java
 
-This project demonstrates an implementation of the **Natural Merge Sort** algorithm in Java. It also includes a robust testing suite for verifying the behavior of `getSortedRunLength`, a helper method critical to identifying naturally sorted runs in an array.
+This project demonstrates an implementation of the **Natural Merge Sort** algorithm in Java. It also includes a testing suite for verifying the behavior of `getSortedRunLength`, a helper method to identify naturally sorted runs in an array.
 
 ---
 
@@ -51,13 +51,10 @@ PASS: naturalMergeSort()
 Array before calling naturalMergeSort(): [92, 71, 18, 26, 54, 73, 89, 10, 39, 99, 64, 22]
 Array after calling naturalMergeSort(): [10, 18, 22, 26, 39, 54, 64, 71, 73, 89, 92, 99]
 
-yaml
-Copy
-Edit
 
 ---
 
-## 🧠 Educational Value
+## 🧠 Value
 
 This project is ideal for:
 - Understanding how **natural merge sort** differs from classical merge sort.
@@ -74,7 +71,4 @@ This project is ideal for:
    javac csc143/*.java
 Run the main class:
 
-bash
-Copy
-Edit
 java csc143.NaturalMerge
