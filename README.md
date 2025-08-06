@@ -63,10 +63,3 @@ This project is ideal for:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository.
-2. Compile all files:
-3. Run the main class:
-
-java csc143.NaturalMerge
